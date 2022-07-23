@@ -1,12 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital@1&family=Yanone+Kaffeesatz&display=swap');
+
+
+
 * {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
+body {
+    width: 100%;
+    font-family: Yanone Kaffeesatz, Helvetica, sans-serif;
+    color: #515d5f;
+}
+
+#logo {
+    margin: 20px;
+}
+
 #logo h1 {
     letter-spacing: 2.5px;
-    font-size: 230%;
-    float: left;
+    font-size: 400%;
     color: #f19f55;
+}
+
+#logo p {
+    color: #628131;
+    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    font-size: 125%;
+    margin-top: -20px;
+    letter-spacing: 5px;
 }
