@@ -19,7 +19,7 @@ body {
 /*header and logo*/
 
 header {
-    height: 150px;
+    /* height: 150px; */
     background-color: bisque;
 }
 
@@ -67,4 +67,16 @@ header {
 
 .active {
     border-bottom: 2px solid #f19f55;
+}
+
+/*hero image*/
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+    border-color: #f19f55;
+    border-style: solid;
+    /* margin: 30px; */
 }
