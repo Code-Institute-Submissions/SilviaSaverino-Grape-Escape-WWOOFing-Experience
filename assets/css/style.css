@@ -91,7 +91,6 @@ header {
 /*introduction to wwoofing*/
 .center {
     margin: 20px;
-    width: 90%;
     padding: 10px;
     /*text*/
     text-align: center;
@@ -100,5 +99,52 @@ header {
 .center p {
     text-align: center;
     font-size: 1.2rem;
-    padding: 20px;
+}
+
+/*about us images*/
+
+.container {
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    object-fit: cover;
+    /*borders*/
+    border-style: solid;
+    border-color: #f19f55;
+    border-width: 2px;
+    border-radius: 5%;
+}
+
+/*about us section*/
+
+#about-us h1 {
+    color: #f19f55;
+    font-size: 3rem;
+    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#about-us p {
+    margin: 20px;
+}
+
+
+#left-about {
+    padding-top: 20px;
+    width: 33%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 20px;
+    width: 33%;
+    float: right;
+}
+
+#center-about {
+    padding-top: 20px;
+    width: 33%;
+    margin: 0 auto;
 }
