@@ -7,6 +7,9 @@
     padding: 0;
     border: 0;
 }
+a {
+    text-decoration: none;
+}
 
 body {
     width: 100%;
@@ -16,12 +19,14 @@ body {
 
 #logo {
     margin: 20px;
+    
 }
 
 #logo h1 {
     letter-spacing: 2.5px;
     font-size: 400%;
     color: #f19f55;
+    
 }
 
 #logo p {
