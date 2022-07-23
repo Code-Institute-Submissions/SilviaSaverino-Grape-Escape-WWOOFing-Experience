@@ -19,8 +19,7 @@ body {
 /*header and logo*/
 
 header {
-    /* height: 150px; */
-    background-color: bisque;
+   background-color: bisque;
 }
 
 #logo {
@@ -78,5 +77,4 @@ header {
     object-fit: cover;
     border-color: #f19f55;
     border-style: solid;
-    /* margin: 30px; */
 }
