@@ -78,3 +78,20 @@ header {
     border-color: #f19f55;
     border-style: solid;
 }
+
+/*introduction to wwoofing*/
+.center {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+    /*text*/
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.center p {
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 20px;
+
+}
