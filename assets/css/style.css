@@ -103,7 +103,7 @@ header {
 
 /*about us images*/
 
-.imgContainer {
+.img-container {
     width: 350px;
     height: 350px;
     margin: 0 auto;
@@ -128,4 +128,21 @@ header {
 
 #about-us p {
     margin: 20px;
+}
+
+/*footer*/
+
+footer {
+    margin-top: 30px;
+    background-color: bisque;
+}
+
+.social-networks i {
+    font-size: 250%;
+    margin: 30px;
+    color: #628131;
+}
+
+.social-networks i:hover {
+    color: #f19f55;
 }
