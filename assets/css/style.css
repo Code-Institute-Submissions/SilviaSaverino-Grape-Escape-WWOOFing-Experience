@@ -6,15 +6,24 @@
     border: 0;
 }
 
-a {
-    text-decoration: none;
-}
 
 body {
     width: 100%;
     font-family: Yanone Kaffeesatz, Helvetica, sans-serif;
     color: #515d5f;
 }
+
+h2 {
+    color: #628131;
+    margin-bottom: 20px;
+    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    font-size: 225%;
+}
+
+a {
+    text-decoration: none;
+}
+
 
 /*header and logo*/
 
@@ -81,17 +90,15 @@ header {
 
 /*introduction to wwoofing*/
 .center {
-    margin: auto;
+    margin: 20px;
     width: 90%;
     padding: 10px;
     /*text*/
     text-align: center;
-    font-size: 1.2rem;
 }
 
 .center p {
     text-align: center;
     font-size: 1.2rem;
     padding: 20px;
-
 }
