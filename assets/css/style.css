@@ -103,7 +103,7 @@ header {
 
 /*about us images*/
 
-.container {
+.imgContainer {
     width: 350px;
     height: 350px;
     margin: 0 auto;
@@ -128,23 +128,4 @@ header {
 
 #about-us p {
     margin: 20px;
-}
-
-
-#left-about {
-    padding-top: 20px;
-    width: 33%;
-    float: left;
-}
-
-#right-about {
-    padding-top: 20px;
-    width: 33%;
-    float: right;
-}
-
-#center-about {
-    padding-top: 20px;
-    width: 33%;
-    margin: 0 auto;
 }
