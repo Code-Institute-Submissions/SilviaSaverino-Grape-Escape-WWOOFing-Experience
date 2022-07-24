@@ -83,6 +83,7 @@ header {
 #hero-image {
     height: 600px;
     width: 100%;
+    margin-top: 20px;
     position: relative;
     object-fit: cover;
     border-color: #f19f55;
@@ -107,7 +108,7 @@ header {
 .img-container {
     width: 350px;
     height: 350px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     object-fit: cover;
     /*borders*/
     border-style: solid;
@@ -143,7 +144,7 @@ header {
 /*footer*/
 
 footer {
-    margin-top: 30px;
+    margin-top: -20px;
     background-color: bisque;
 }
 
