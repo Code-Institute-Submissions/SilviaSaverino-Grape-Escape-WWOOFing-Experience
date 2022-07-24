@@ -106,7 +106,7 @@ header {
 .img-container {
     width: 350px;
     height: 350px;
-    margin: 0 auto;
+    margin-bottom: 10px;
     object-fit: cover;
     /*borders*/
     border-style: solid;
