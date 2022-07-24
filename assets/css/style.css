@@ -134,7 +134,7 @@ header {
 
 /*gallery page*/
 
-span {
+#gallery-link {
     font-size: 3rem;
     font-family: Barlow Semi Condensed, Helvetica, sans-serif;
     margin: 20px;
