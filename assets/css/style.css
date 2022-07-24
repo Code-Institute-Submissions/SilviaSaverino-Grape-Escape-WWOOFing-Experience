@@ -185,3 +185,14 @@ footer {
     font-size: 1.2rem;
     color: #0009;
 }
+
+/*submit*/
+
+input[type=submit] {
+    background-color: white;
+    border: 2px solid #628131;
+}
+
+input[type=submit]:hover {
+    background-color: #f19e55a8;
+}
