@@ -11,7 +11,7 @@ body {
     width: 100%;
     font-family: Yanone Kaffeesatz, Helvetica, sans-serif;
     color: #515d5f;
-    background-color: rgb(241, 241, 220);
+    background-color: rgba(241, 241, 220, 0.5);
 }
 
 h2 {
@@ -39,7 +39,7 @@ header {
 #logo h1 {
     letter-spacing: 2.5px;
     font-size: 400%;
-    color: #f19f55;
+    color: #f17505e0;
 }
 
 #logo p {
@@ -71,11 +71,11 @@ header {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #f19f55;
+    border-bottom: 2px solid #f17505e0;
 }
 
 .active {
-    border-bottom: 2px solid #f19f55;
+    border-bottom: 2px solid #f17505e0;
 }
 
 /*hero image*/
@@ -86,7 +86,7 @@ header {
     margin-top: 20px;
     position: relative;
     object-fit: cover;
-    border-color: #f19f55;
+    border-color: #f17505e0;
     border-style: solid;
 }
 
@@ -112,7 +112,7 @@ header {
     object-fit: cover;
     /*borders*/
     border-style: solid;
-    border-color: #f19f55;
+    border-color: #f17505e0;
     border-width: 2px;
     border-radius: 5%;
 }
@@ -120,7 +120,7 @@ header {
 /*about us section*/
 
 #about-us h1 {
-    color: #f19f55;
+    color: #f17505e0;
     font-size: 3rem;
     font-family: Barlow Semi Condensed, Helvetica, sans-serif;
     letter-spacing: 2px;
@@ -155,7 +155,7 @@ footer {
 }
 
 .social-networks i:hover {
-    color: #f19f55;
+    color: #f17505e0;
 }
 
 /*get started form*/
