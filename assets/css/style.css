@@ -134,7 +134,9 @@ header {
 /*gallery page*/
 
 span {
-    font-size: 150%;
+    font-size: 3rem;
+    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    margin: 20px;
 }
 
 /*footer*/
@@ -153,3 +155,6 @@ footer {
 .social-networks i:hover {
     color: #f19f55;
 }
+
+/*get started form*/
+
