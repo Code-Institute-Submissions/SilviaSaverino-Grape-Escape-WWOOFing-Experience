@@ -29,7 +29,7 @@ a {
 /*header and logo*/
 
 header {
-   background-color: bisque;
+    background-color: bisque;
 }
 
 #logo {
@@ -166,7 +166,9 @@ footer {
     background-size: cover;
 }
 
-.get-started-form, .location, .contact-us {
+.get-started-form,
+.location,
+.contact-us {
     background-color: rgba(255, 228, 196, 0.677);
     padding: 20px;
     margin: 10px;
@@ -175,4 +177,8 @@ footer {
 
 .form-row {
     margin: 5px;
+}
+
+.contact-us p, .location p {
+    font-size: 1.2rem;
 }
