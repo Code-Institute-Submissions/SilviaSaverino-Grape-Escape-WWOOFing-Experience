@@ -161,7 +161,7 @@ footer {
 /*get started form*/
 
 .form-section {
-    background-image: url(/images/get-started-hero.jpg);
+    background-image: url(images/get-started-hero.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
