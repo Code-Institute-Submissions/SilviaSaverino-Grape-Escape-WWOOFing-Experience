@@ -131,37 +131,37 @@ Some heading and paragraph had been added in this page with further explanation 
 
 A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
 
-Technologies Used
+## *Technologies Used*
 I have used several technologies that have enabled this design to work:
--	HTML
+-	[HTML]()
 	- Used as the basic building block for the project and to structure the content.
--	CSS
+-	[CSS]()
     - Used to style all the web content across the project.
--	Google Fonts
+-	[Google Fonts] (https://fonts.google.com/)
 	- Used to obtain the fonts linked in the header and body; fonts used were 'Barlow semi condensed' and ‘Yanone Kafeesatz’
--	Font Awesome
+-	[Font Awesome](https://fontawesome.com/)
 	- Used to obtain the social media icons used in the footer 
--	Google Developer Tools
-	- Used as a primary method of fixing spacing issues, finding bugs, and testing respon-siveness across the project.
--	Bootstrap
+-	[Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+-	[Bootstrap]()
 	- Used as a primary method of testing responsiveness across the project and align sec-tion correctly
--	GitHub
+-	[GitHub](https://github.com/)
 	- Used to store code for the project after being pushed.
--	Git
+-	[Git](https://git-scm.com/)
 	- Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
--	Gitpod
+-	[Gitpod](https://www.gitpod.io/)
 	- Used as the development environment.
 -	Color Contrast Accessibility Validator
 	- Allowed me to test the colour contrast of my webpage.
--	W3C Markup Validation Service
+-	[W3C Markup Validation Service](https://validator.w3.org/) 
 	- Used to validate all HTML code written and used in this webpage.
--	W3C CSS Validation Service
+-	[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
 	- Used to validate all CSS code written and used in this webpage.
--	Freeformatter CSS Beautify
+-	[Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
 	- Used to accurately format my CSS code.
--	Freeformatter HTML Formatter
+-	[Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
 	- Used to accurately format my HTML code.
--	AmIResponsive
+-	[AmIResponsive](http://ami.responsivedesign.is/)
 	- Used to generate responsive image used in README file.
 
 
