@@ -136,6 +136,7 @@ header {
 /*gallery page*/
 
 #gallery-link {
+    color: #f17505e0;
     font-size: 3rem;
     font-family: Barlow Semi Condensed, Helvetica, sans-serif;
     margin: 20px;
