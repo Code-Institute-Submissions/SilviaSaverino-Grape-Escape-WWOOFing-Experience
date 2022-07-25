@@ -221,3 +221,27 @@ input[type=submit]:hover {
 
 }
 
+/*media query*/
+
+@media screen and (max-width: 1200px) {
+
+    .img-container {
+        max-width: 100%
+}
+
+/*for medium screen sizes - from 950px wide and down*/
+
+@media screen and (max-width: 950px) {
+
+    .img-container {
+       max-width: 100%;
+    }
+}
+/*for small screen sizes - from 450px wide and down*/
+
+@media screen and (max-width: 450px) {
+
+    .img-container {
+       max-width: 100%;
+    }
+}
