@@ -1,108 +1,167 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Grape Escape - A WWOOFing experience
 
-Welcome USER_NAME,
+[Please, follow this link to visit the website]()
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Created to provide inspiration for people interested in WWOOFing and those specifically interested in visiting the Torsi villa in Tuscany. This website was made for educational purposes only.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+This website is made up of the following sections:
+1.	Home/Introduction to WWOOFing and the Torsi villa
+2.	Gallery
+3.	Form to get started and submit queries
+4.	FAQ section - (to be added!)
 
-## Gitpod Reminders
+The business goals for this website are:
+1.	To inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+2.	To provide some basic information on what to expect from this way of travelling
 
-`python3 -m http.server`
+3.	To create a sense of community and long-lasting memories through the Gallery page
 
-A blue button should appear to click: _Make Public_,
+The user goals of this website are:
+1.	As a first-time visitor, I want to easily find useful information about WWOOFing and what this host can offer.
 
-Another blue button should appear to click: _Open Browser_.
+2.	As a first-time visitor, I want to find inspiration for planning future WWOOFing experiences
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+3.	As a first-time visitor, I want to find a helpful guide on what to expect from this experience
 
-A blue button should appear to click: _Make Public_,
+4.	As a recurring or first-time visitor, I want to find recommendations from previous volunteers’ feedbacks
 
-Another blue button should appear to click: _Open Browser_.
+5.	As a first-time user, I want to be able to directly enquiry and receive content from the hosts and his small team
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+# **UX** 
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## **Strategy**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
+Grape Escape-WWOOFers experience target users are:
 
-------
+-	Aged 18-70
+-	First time and veteran WWOOFers
+-	People interested in having a better understanding of  organic and self-sufficient lifestyles
+-	Have an interest in visiting the Torsi villa
 
-## Release History
+What these users would be looking for:
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+-	Clear, concise, easy-to-find information
+-	Beautiful photos that provide a positive response and make the destinations look desirable
+-	Helpful guidance on what to expect once at the villa
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+This website allows intuitive navigation and comfortability of use. It purposely does not provide overwhelming amounts of information that could put off first time WWOOFers.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+As it is assumed that most WWOOFers will be using their mobile whilst travelling, the design of the website is responsive to small and medium screens too.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+## **Scope**
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+To achieve the desired user and business goals, I’ve included the following features will be included in this release:
+-	Header and menu bar, to navigate to various sections of the page
+-	Gallery of images from previous volunteers at the villa
+-	Get started form for enquiries
+-	Links to affiliate social media pages
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+What I would like to add in the future:
+-	A FAQs page to let the user have extra information 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+## **Structure**
+This is a three-page website to allow for desired flow;
+ The navigation bar would include the links to all three pages and will allow the user to easily move through the website.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+ I chose the following order for the information 
+ 'Home >Gallery> Get Started'
+ as I felt this would allow the information to be digested in the best way. 
+ 
+ The text blocks are broken up with images to ensure interest is kept and there is no information overload at any point. 
+ 
+ Finally, there is a simple Get Started form that allows the user to send their enquiries to Grape Escape team, with a choice of some selected topics to choose from.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## **Skeleton**
+[Wireframes]()
+I had originally thought about creating a website with a homepage and 4 separate pages by adding a FAQs section, yet I later decided not to proceed this way to avoid cognitive overload by displaying too much information. 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+Please note the finalised website contains slight variations to the original wireframe.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+I purposely placed the Gallery anchor element as a last thing in the home page to encourage users to click on it and receive a positive response from the images shown in the gallery.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## **Surface**
+I’ve chosen a colour palette based around orange & greens from the hero image. 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+I would like the users of this website to have a positive response and to be transported in an atmosphere of nature and I believe the orange from the sunset and the green from the vineyard will help with this. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+I paired these two colours with a lighter off-beige to allow for appropriate contrast.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+I used Google fonts Barlow semi condensed and Yanone Kafeesats across the entire website. 
+I felt that the two fonts  could be a good pairing .'Barlow semi condensed' was a fun text and stood out on the page but I also wanted something easier to read for the large blocks of texts which is why I've choses 'Yanone Kafeesats' for the body text.
 
-------
+## **Features**
+All of the headings use the font ‘Barlow semi condensed’ whilst the body text use Yanone Kafeesatz, this consistency has been used across the website to create a coherent design. 
 
-## FAQ about the uptime script
+This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; each page is accessible through the nav bar. 
 
-**Why have you added this script?**
+### *Navbar*
+The navbar is placed on top of a colorful header, when viewed on smaller screens I opted for the menu to stick at the top to allow better navigation through the website. 
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and increase their curiosity about Villa Torsi
 
-**How will this affect me?**
+### *What is WWOOFing section*
+I've decided to add a simple explanation of what WWOOFing is – to target first time users and prompt some curiosity and interest in them. 
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+I kept the layout and style of this section very basic to avoid cognitive overload.
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+### *About Us section*
+In here the user will find a brief explanation of what to expect from such experience and from the host itself. 
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+I’ve used some h2 headings, followed by a representative image of the descriptive content of the paragraphs that follows. I wanted to keep this section simple, clean and straight to the point as a FAQs page will later be added.
 
-**So….?**
+### *Gallery page*
+This page features a simple structure of three images per row, for a total of twelve images- the idea behind this is that the images will keep on been updated and will keep on changing. 
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+This layout had been chosen to provide the user with a positive reaction and possibly imagine themselves among the people in the pictures.  
 
-**Can I opt out?**
+To help the users to easily navigate their way beyond this page, the header and the footer are consistent with the home page.
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+### *Get started page*
+This is a signup form that will allow the user to send enquiries and get in touch with the Grape Escape team. 
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+The form uses 5 elements, 2 text inputs and an email input, plus a drop-down menu to select the nature of the enquiry and a textbox to let the users express themselves. 
+They are all required therefore all information is necessary to submit the form. 
 
-**Anything more?**
+Once the users do so, will be redirected to a page -not accessible from nowhere else on the website- confirming that their enquiry has indeed been sent. 
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+Some heading and paragraph had been added in this page with further explanation of the reason I’ve decided not to include the location of the farm. 
 
----
+A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
 
-Happy coding!
+Technologies Used
+I have used several technologies that have enabled this design to work:
+-	HTML
+	- Used as the basic building block for the project and to structure the content.
+-	CSS
+    - Used to style all the web content across the project.
+-	Google Fonts
+	- Used to obtain the fonts linked in the header and body; fonts used were 'Barlow semi condensed' and ‘Yanone Kafeesatz’
+-	Font Awesome
+	- Used to obtain the social media icons used in the footer 
+-	Google Developer Tools
+	- Used as a primary method of fixing spacing issues, finding bugs, and testing respon-siveness across the project.
+-	Bootstrap
+	- Used as a primary method of testing responsiveness across the project and align sec-tion correctly
+-	GitHub
+	- Used to store code for the project after being pushed.
+-	Git
+	- Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+-	Gitpod
+	- Used as the development environment.
+-	Color Contrast Accessibility Validator
+	- Allowed me to test the colour contrast of my webpage.
+-	W3C Markup Validation Service
+	- Used to validate all HTML code written and used in this webpage.
+-	W3C CSS Validation Service
+	- Used to validate all CSS code written and used in this webpage.
+-	Freeformatter CSS Beautify
+	- Used to accurately format my CSS code.
+-	Freeformatter HTML Formatter
+	- Used to accurately format my HTML code.
+-	AmIResponsive
+	- Used to generate responsive image used in README file.
+
+
