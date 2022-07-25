@@ -165,3 +165,20 @@ I have used several technologies that have enabled this design to work:
 	- Used to generate responsive image used in README file.
 
 
+### **Lighthouse**
+
+pics and content here
+
+### **HTML and CSS Validation**
+
+pics and content here
+
+### **Known bugs and fixes**
+
+pics and content here
+
+### **Deployment**
+pics and content here
+
+### **Credits**
+pics and content here
