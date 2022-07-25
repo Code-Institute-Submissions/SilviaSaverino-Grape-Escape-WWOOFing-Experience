@@ -145,8 +145,13 @@ header {
 /*footer*/
 
 footer {
-    margin-top: -20px;
-    background-color: #ffe4c4d4;
+   background-color: #ffe4c4d4;
+}
+
+.centred {
+    padding: 10px;
+    /*text*/
+    text-align: center;
 }
 
 .social-networks i {
@@ -166,6 +171,7 @@ footer {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    margin: 20px auto;
 }
 
 .get-started-form,
