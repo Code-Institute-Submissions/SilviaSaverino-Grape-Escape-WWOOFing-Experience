@@ -91,7 +91,7 @@
 
                 </div>
                 <div class="col-12 col-lg-6">
-                    <form class="get-started-form" method="get" action="submit-received.html">
+                    <form class="get-started-form" method="post" action="">
                         <!--action to be added later on-->
 
                         <h2>Get started</h2>
@@ -105,12 +105,13 @@
                         </div>
                         <div class="row form-row">
                             <label for="email">Your email:</label><br>
-                            <input type="text" name="email" id="email" placeholder="Your Email address" required><br>
+                            <input type="email" name="email" id="email" placeholder="Your Email address" required><br>
                         </div>
                         <div class="row form-row">
                             <label for="subject">Subject of your enquiry:</label><br>
                             <select id="subject" required>
-                                <option value="">General enquiry</option>
+                                <option value="">Please, select one of the following:</option>
+                                <option value="general-enquiry">General enquiry</option>
                                 <option value="availability">Availability</option>
                                 <option value="daily-schedule">Daily schedule</option>
                             </select>

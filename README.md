@@ -196,14 +196,33 @@ I am pleased my website has hitten more than 95% in all score.
 
 ### **HTML and CSS Validation**
 
-pics and content here
+After fixing some errors on both testing sites- maynli some typos but also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
+
+![image of Grape Escape percentage scores on Lighthouse](/docs/images/w3c-validator.jpg)
+
 
 ### **Known bugs and fixes**
 
 pics and content here
 
 ### **Deployment**
-pics and content here
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. For the site to deploy correctly on GitHub pages, the landing page must be named index.html.
+
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://silviasaverino.github.io/Grape-Escape-WWOOFing-Experience/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+My project was developed using the IDE, Gitpod. I deployed my website from the GitHub repository to GitHub Pages using the following steps:
+
+    1. I selected the Settings tab in my GitHub repository. 
+	![Step1 to deploy a project on Github](/docs/images/deployment1.png)
+
+    2. I located the GitHub Pages section and chose the Master branch as the source to enable GitHub Pages. 
+	![Step2 to deploy a project on Github](/docs/images/deployment2.png)
+
+	3. Once I saved the Master Branch as the source, the page refreshed and I located the URL to the deployed website.
+	![Step3 to deploy a project on Github](/docs/images/deployment3.png)
+
+	4. I then followed the link to observe and verify the published GitHub page. 
+	![Step4 to deploy a project on Github](/docs/images/deployment4.png)
 
 ### **Credits**
 pics and content here

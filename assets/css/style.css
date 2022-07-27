@@ -29,7 +29,8 @@ a {
 /*header and logo*/
 
 header {
-    background-color: #ffe4c4ea;
+    background-color: #fff1e1;
+    /*background-color: #ffe8cc;*/
 }
 
 
@@ -40,11 +41,12 @@ header {
 #logo h1 {
     letter-spacing: 2.5px;
     font-size: 400%;
-    color: #f17505e0;
+   
+    color: #f17305;
 }
 
 #logo p {
-    color: #628131;
+    color: #526d29;
     font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     font-size: 125%;
     margin-top: -20px;
@@ -218,7 +220,7 @@ input[type=submit]:hover {
     min-height: 500px;
     padding-top: 120px;
     /*img*/
-    background-image: url(/images/ragazza-mriachella.jpg);
+    background-image: url(images/ragazza-mriachella.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
