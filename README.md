@@ -172,8 +172,8 @@ I have used several technologies that have enabled this design to work:
 	- Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 -	[Gitpod](https://www.gitpod.io/)
 	- Used as the development environment.
--	Color Contrast Accessibility Validator
-	- Allowed me to test the colour contrast of my webpage.
+-	[ImageOptim](https://imageoptim.com/online)
+    -Used to resize screenshots for READ-ME file
 -	[W3C Markup Validation Service](https://validator.w3.org/) 
 	- Used to validate all HTML code written and used in this webpage.
 -	[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
@@ -188,7 +188,11 @@ I have used several technologies that have enabled this design to work:
 
 ### **Lighthouse**
 
-pics and content here
+Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features.
+I am pleased my website has hitten more than 95% in all score.
+
+![image of Grape Escape percentage scores on Lighthouse](/docs/images/lighthouse.jpg)
+
 
 ### **HTML and CSS Validation**
 
