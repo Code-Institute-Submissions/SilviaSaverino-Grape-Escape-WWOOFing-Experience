@@ -76,7 +76,7 @@ This is a three-page website to allow for desired flow;
 
 ## **Skeleton**
 [Wireframes]()
-I had originally thought about creating a website with a homepage and 4 separate pages by adding a FAQs section, yet I later decided not to proceed this way to avoid cognitive overload by displaying too much information. 
+I had originally thought about creating a website with a homepage and 3 separate pages by adding a FAQs section, yet I later decided not to proceed this way to avoid cognitive overload by displaying too much information. 
 
 Please note the finalised website contains slight variations to the original wireframe.
 
@@ -99,6 +99,8 @@ This is a fully responsive website that was designed mobile-first as this is the
 
 ### *Navbar*
 The navbar is placed on top of a colorful header, when viewed on smaller screens I opted for the menu to stick at the top to allow better navigation through the website. 
+
+![image of Grape Escape navigation bar and logo](/docs/images/nav-bar.jpg)
 
 The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and increase their curiosity about Villa Torsi
 
