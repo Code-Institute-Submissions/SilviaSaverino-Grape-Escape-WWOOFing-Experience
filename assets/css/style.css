@@ -12,6 +12,7 @@ body {
     font-family: 'Yanone Kaffeesatz', Helvetica, sans-serif;
     color: #515d5f;
     background-color: rgba(241, 241, 220, 0.5);
+    margin-top: 170px;
 }
 
 h2 {
@@ -52,7 +53,7 @@ header {
     letter-spacing: 5px;
 }
 
-.sticky {
+#sticky {
     position: fixed;
     top: 0;
     width: 100%;

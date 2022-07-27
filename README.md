@@ -174,17 +174,15 @@ The footer is coherent with the layout and style of the header and nav bar; at t
 
 ## *Technologies Used*
 I have used several technologies that have enabled this design to work:
--	[HTML]()
-	- Used as the basic building block for the project and to structure the content.
--	[CSS]()
-    - Used to style all the web content across the project.
--	[Google Fonts] (https://fonts.google.com/)
+-   [W3Schools](https://www.w3schools.com/)
+    - Used to check html and ccs codes and find solutions to some bugs
+-	[Google Fonts](https://fonts.google.com/)
 	- Used to obtain the fonts linked in the header and body; fonts used were 'Barlow semi condensed' and ‘Yanone Kafeesatz’
 -	[Font Awesome](https://fontawesome.com/)
 	- Used to obtain the social media icons used in the footer 
 -	[Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
     - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
--	[Bootstrap]()
+-	[Bootstrap](https://getbootstrap.com/)
 	- Used as a primary method of testing responsiveness across the project and align sec-tion correctly
 -	[GitHub](https://github.com/)
 	- Used to store code for the project after being pushed.
