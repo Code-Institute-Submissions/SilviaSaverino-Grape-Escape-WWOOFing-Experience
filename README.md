@@ -107,10 +107,14 @@ I've decided to add a simple explanation of what WWOOFing is – to target first
 
 I kept the layout and style of this section very basic to avoid cognitive overload.
 
+![image of Grape Escape Gallery page](/docs/images/what-is-wwoofing.jpg)
+
 ### *About Us section*
 In here the user will find a brief explanation of what to expect from such experience and from the host itself. 
 
 I’ve used some h2 headings, followed by a representative image of the descriptive content of the paragraphs that follows. I wanted to keep this section simple, clean and straight to the point as a FAQs page will later be added.
+
+![image of Grape Escape About us section](/docs/images/about-us-section.jpg)
 
 ### *Gallery page*
 This page features a simple structure of three images per row, for a total of twelve images- the idea behind this is that the images will keep on been updated and will keep on changing. 
@@ -118,6 +122,8 @@ This page features a simple structure of three images per row, for a total of tw
 This layout had been chosen to provide the user with a positive reaction and possibly imagine themselves among the people in the pictures.  
 
 To help the users to easily navigate their way beyond this page, the header and the footer are consistent with the home page.
+
+![image of Grape Escape Gallery page](/docs/images/gallery-page.jpg)
 
 ### *Get started page*
 This is a signup form that will allow the user to send enquiries and get in touch with the Grape Escape team. 
@@ -129,11 +135,18 @@ Once the users do so, will be redirected to a page -not accessible from nowhere 
 
 Some heading and paragraph had been added in this page with further explanation of the reason I’ve decided not to include the location of the farm. 
 
+A background image coherent with the style of the whole website had been chosen for this page for consistency really, and the form had been adapted with the right contrast to avoid readability issue.
+
+![image of Grape Escape Get Started page](/docs/images/get-started-page.jpg)
+
 A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
 
 ### *Footer*
 The footer is coherent with the layout and style of the header and nav bar; at this time it only includes links to social media pages ,all of them opening in a new tab to facilitate the user navigation.
-<img src="docs/images/footer-section.png" alt="images of Grape Escape footer with social links icons>
+
+![image of Grape Escape footer with social links icons](/docs/images/footer-section.jpg)
+
+
 
 ## *Technologies Used*
 I have used several technologies that have enabled this design to work:
