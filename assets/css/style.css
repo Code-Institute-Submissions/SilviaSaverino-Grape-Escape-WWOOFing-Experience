@@ -29,8 +29,9 @@ a {
 /*header and logo*/
 
 header {
-    background-color: #ffe4c4d4;
+    background-color: #ffe4c4ea;
 }
+
 
 #logo {
     margin: 20px;
@@ -48,6 +49,13 @@ header {
     font-size: 125%;
     margin-top: -20px;
     letter-spacing: 5px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
 }
 
 /* navigation bar */
@@ -251,5 +259,9 @@ input[type=submit]:hover {
 
     .img-container {
        max-width: 100%;
+    }
+
+    #menu {
+        margin-top: -50px
     }
 }
