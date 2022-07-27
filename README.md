@@ -8,7 +8,9 @@ This website is made up of the following sections:
 1.	Home/Introduction to WWOOFing and the Torsi villa
 2.	Gallery
 3.	Form to get started and submit queries
-4.	FAQ section - (to be added!)
+
+To be added later:
+4.	FAQ section 
 
 The business goals for this website are:
 1.	To inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
