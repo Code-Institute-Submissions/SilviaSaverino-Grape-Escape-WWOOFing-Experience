@@ -5,11 +5,13 @@
 Created to provide inspiration for people interested in WWOOFing and those specifically interested in visiting the Torsi villa in Tuscany. This website was made for educational purposes only.
 
 This website is made up of the following sections:
+
 1.	Home/Introduction to WWOOFing and the Torsi villa
 2.	Gallery
 3.	Form to get started and submit your queries
 
-To be added later:
+To be added later in future release:
+
 4.	FAQ section 
 
 
@@ -247,4 +249,22 @@ My project was developed using the IDE, Gitpod. I deployed my website from the G
 	![Step4 to deploy a project on Github](/docs/images/deployment4.png)
 
 ### **Credits**
-pics and content here
+
+## **Content**
+The content for this website was created by the owner and all of the names and stories written for Grape Escape-a WWOOFing experience are not real - any resemblance to real events and/or to real persons, living or dead, is purely coincidental.
+
+## **Images**
+All of the images for this website were found on free stock photo website, such as: 
+   -Pexels
+      - [Pexels homepage](https://www.pexels.com/)
+
+   -Stock Vault
+      - [Stock Vault homepage](https://www.stockvault.net/)
+
+
+### **Acknowledgements**
+I would like to acknowledge the following people who had been helpul and supportive in completing my first milestone project:
+   -Francesco Rubino
+   -Guido Cecilio 
+   -Martina and Cosimo Toppi
+   -the Slack community of 'Code Institute' ~ in particular Kera Cudmore for her prompt replies and great tips
