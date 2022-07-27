@@ -132,7 +132,8 @@ Some heading and paragraph had been added in this page with further explanation 
 A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
 
 ### *Footer*
-The footer is coherent with the layout and style of the header and nav bar; at this time it only includes links to social media pages ,all of them opening in a new tab to facilitate the user navigation. 
+The footer is coherent with the layout and style of the header and nav bar; at this time it only includes links to social media pages ,all of them opening in a new tab to facilitate the user navigation.
+<img src="docs/images/footer-section.png" alt="images of Grape Escape footer with social links icons>
 
 ## *Technologies Used*
 I have used several technologies that have enabled this design to work:
