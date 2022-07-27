@@ -136,13 +136,13 @@ I’ve used some h2 headings, followed by a representative image of the descript
 ![image of Grape Escape About us section](/docs/images/about-us-section.jpg)
 
 ### *Gallery page*
-This page features a simple structure of three images per row, for a total of twelve images- the idea behind this is that the images will keep on been updated and will keep on changing. 
+This page features a simple structure of three images per row, for a total of twelve images- with some feedbacks and reviews from the guests in the picture. The idea for a future version of this website that the images will keep on been updated and will keep on changing. 
 
 This layout had been chosen to provide the user with a positive reaction and possibly imagine themselves among the people in the pictures.  
 
 To help the users to easily navigate their way beyond this page, the header and the footer are consistent with the home page.
 
-![image of Grape Escape Gallery page](/docs/images/gallery-page.jpg)
+![image of Grape Escape Gallery page](/docs/images/gallery-feedbacks.jpg)
 
 ### *Get started page*
 This is a signup form that will allow the user to send enquiries and get in touch with the Grape Escape team. 
@@ -212,7 +212,9 @@ I am pleased my website has hitten more than 95% in all score.
 
 After fixing some errors on both testing sites- maynli some typos but also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
 
-![image of Grape Escape percentage scores on Lighthouse](/docs/images/w3c-validator.jpg)
+![![image of HTML positive validator results]](/docs/images/w3c-validator.jpg)
+
+![image of CSS positive validator results](/docs/images/css-validator.png)
 
 
 ### **Color Contrast Validator**
