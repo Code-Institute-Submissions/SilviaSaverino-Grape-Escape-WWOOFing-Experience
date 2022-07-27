@@ -1,34 +1,48 @@
-# Grape Escape - A WWOOFing experience
+# **Grape Escape - A WWOOFing experience**
 
-[Please, follow this link to visit the website]()
+[Please, follow this link to visit the website](https://silviasaverino.github.io/Grape-Escape-WWOOFing-Experience/index.html)
 
 Created to provide inspiration for people interested in WWOOFing and those specifically interested in visiting the Torsi villa in Tuscany. This website was made for educational purposes only.
 
 This website is made up of the following sections:
 1.	Home/Introduction to WWOOFing and the Torsi villa
 2.	Gallery
-3.	Form to get started and submit queries
+3.	Form to get started and submit your queries
 
 To be added later:
 4.	FAQ section 
 
-The business goals for this website are:
+
+
+# **User Stories**
+
+Client goals for this website are:
 1.	To inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
 
 2.	To provide some basic information on what to expect from this way of travelling
 
 3.	To create a sense of community and long-lasting memories through the Gallery page
 
-The user goals of this website are:
-1.	As a first-time visitor, I want to easily find useful information about WWOOFing and what this host can offer.
+First-time usergoals of this website are:
 
-2.	As a first-time visitor, I want to find inspiration for planning future WWOOFing experiences
+1. I want to be able to navigate the site without issues
 
-3.	As a first-time visitor, I want to find a helpful guide on what to expect from this experience
+2. I want to have a better understanding of what WWOOFing is
 
-4.	As a recurring or first-time visitor, I want to find recommendations from previous volunteers’ feedbacks
+3. I want to check credibility and previous user feedbacks on Grape Escape social media pages
 
-5.	As a first-time user, I want to be able to directly enquiry and receive content from the hosts and his small team
+Returning Visitor Goals are:
+1.	I want to easily find useful information about WWOOFing and what this host can offer
+
+3.	I want to find a helpful guidelines on what to expect from this experience
+
+5.	I want to be able to directly enquiry and receive content from the hosts and his small team
+
+Frequent Visitor Goals are:
+1. I want to find up to date information on what is new
+
+2. I want to be able to easily contact the host with questions I might have
+
 
 
 # **UX** 
@@ -36,6 +50,7 @@ The user goals of this website are:
 ## **Strategy**
 
 Considering the core UX principles I first started to think about the strategy for this website and defined who the target users would be and what features/technologies they would want.
+
 Grape Escape-WWOOFers experience target users are:
 
 -	Aged 18-70
@@ -135,8 +150,6 @@ This is a signup form that will allow the user to send enquiries and get in touc
 The form uses 5 elements, 2 text inputs and an email input, plus a drop-down menu to select the nature of the enquiry and a textbox to let the users express themselves. 
 They are all required therefore all information is necessary to submit the form. 
 
-Once the users do so, will be redirected to a page -not accessible from nowhere else on the website- confirming that their enquiry has indeed been sent. 
-
 Some heading and paragraph had been added in this page with further explanation of the reason I’ve decided not to include the location of the farm. 
 
 A background image coherent with the style of the whole website had been chosen for this page for consistency really, and the form had been adapted with the right contrast to avoid readability issue.
@@ -144,6 +157,13 @@ A background image coherent with the style of the whole website had been chosen 
 ![image of Grape Escape Get Started page](/docs/images/get-started-page.jpg)
 
 A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
+
+### *Enquiry-received*
+This page will conferm the user that the enquiry has indeed been sent and that a member of the team will reply to them as soon as possible.
+The layout and style of this page is coherent with the rest of the website, so is the background image i've used.
+
+![image confirming that an enquiry has been sent and surely received by Grape Escape team](/docs/images/enquiry-sent.jpg)
+
 
 ### *Footer*
 The footer is coherent with the layout and style of the header and nav bar; at this time it only includes links to social media pages ,all of them opening in a new tab to facilitate the user navigation.
