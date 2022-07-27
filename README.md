@@ -256,16 +256,16 @@ The content for this website was created by the owner and all of the names and s
 
 ### **Images**
 All of the images for this website were found on free stock photo website, such as: 
-   -Pexels
+   1. Pexels
       - [Pexels homepage](https://www.pexels.com/)
 
-   -Stock Vault
+   2. Stock Vault
       - [Stock Vault homepage](https://www.stockvault.net/)
 
 
 ### **Acknowledgements**
 I would like to acknowledge the following people who had been helpul and supportive in completing my first milestone project:
-   -Francesco Rubino
-   -Guido Cecilio 
-   -Martina and Cosimo Toppi
-   -the Slack community of 'Code Institute' ~ in particular Kera Cudmore for her prompt replies and great tips
+   1. Francesco Rubino
+   2. Guido Cecilio 
+   3. Martina and Cosimo Toppi
+   4. The Slack community of 'Code Institute' ~ in particular Kera Cudmore for her prompt replies and great tips
