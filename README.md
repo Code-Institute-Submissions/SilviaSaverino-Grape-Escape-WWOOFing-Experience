@@ -25,23 +25,23 @@ Client goals for this website are:
 
 First-time usergoals of this website are:
 
-1. I want to be able to navigate the site without issues
+1. To be able to navigate the site without issues
 
-2. I want to have a better understanding of what WWOOFing is
+2. To have a better understanding of what WWOOFing is
 
-3. I want to check credibility and previous user feedbacks on Grape Escape social media pages
+3. To check credibility and previous user feedbacks on Grape Escape social media pages
 
 Returning Visitor Goals are:
-1.	I want to easily find useful information about WWOOFing and what this host can offer
+1.	To easily find useful information about WWOOFing and what this host can offer
 
-3.	I want to find a helpful guidelines on what to expect from this experience
+2.	To find a helpful guidelines on what to expect from this experience
 
-5.	I want to be able to directly enquiry and receive content from the hosts and his small team
+3.	To be able to directly enquiry and receive content from the hosts and his small team
 
 Frequent Visitor Goals are:
-1. I want to find up to date information on what is new
+1. To find up to date information on what is new
 
-2. I want to be able to easily contact the host with questions I might have
+2. To be able to easily contact the host with questions I might have
 
 
 
