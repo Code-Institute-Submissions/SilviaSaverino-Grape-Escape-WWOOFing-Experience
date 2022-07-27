@@ -45,7 +45,7 @@ header {
 
 #logo p {
     color: #628131;
-    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     font-size: 125%;
     margin-top: -20px;
     letter-spacing: 5px;
@@ -130,7 +130,7 @@ header {
 #diff-style {
     color: #f17505e0;
     font-size: 3rem;
-    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     letter-spacing: 2px;
     text-align: center;
     margin-top: 50px;
@@ -146,7 +146,7 @@ header {
 #gallery-link {
     color: #f17505e0;
     font-size: 3rem;
-    font-family: Barlow Semi Condensed, Helvetica, sans-serif;
+    font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     margin: 20px;
 }
 
