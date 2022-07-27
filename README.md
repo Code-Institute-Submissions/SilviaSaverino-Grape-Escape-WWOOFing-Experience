@@ -201,6 +201,12 @@ After fixing some errors on both testing sites- maynli some typos but also some 
 ![image of Grape Escape percentage scores on Lighthouse](/docs/images/w3c-validator.jpg)
 
 
+### **Color Contrast Validator**
+The initial color of logo content had poor Contrast Ratio of 3.52 with the background. So I changed it to a darker green and a darker orange, and i've also slightly changed the opacity of the background color. 
+
+The Color Contrast Accessibility Validator was used to test for colour contrast on the project.
+![image of Color Contrast validator with a positive response](/docs/images/color-contrast.png)
+
 ### **Known bugs and fixes**
 
 pics and content here
