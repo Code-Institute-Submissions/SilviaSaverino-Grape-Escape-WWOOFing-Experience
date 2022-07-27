@@ -236,24 +236,25 @@ To run locally, you can clone this repository directly into the editor of your c
 
 My project was developed using the IDE, Gitpod. I deployed my website from the GitHub repository to GitHub Pages using the following steps:
 
-    1. I selected the Settings tab in my GitHub repository. 
-	![Step1 to deploy a project on Github](/docs/images/deployment1.png)
+1. I selected the Settings tab in my GitHub repository.
+![Step1 step to deploy a project on Github](/docs/images/deployment1.png)
 
-    2. I located the GitHub Pages section and chose the Master branch as the source to enable GitHub Pages. 
-	![Step2 to deploy a project on Github](/docs/images/deployment2.png)
+2. I located the GitHub Pages section and chose the Master branch as the source to enable GitHub Pages. 
+![Step2 to deploy a project on Github](/docs/images/deployment2.png)
 
-	3. Once I saved the Master Branch as the source, the page refreshed and I located the URL to the deployed website.
-	![Step3 to deploy a project on Github](/docs/images/deployment3.png)
+3. Once I saved the Master Branch as the source, the page refreshed and I located the URL to the deployed website.
+![Step3 to deploy a project on Github](/docs/images/deployment3.png)
 
-	4. I then followed the link to observe and verify the published GitHub page. 
-	![Step4 to deploy a project on Github](/docs/images/deployment4.png)
+4. I then followed the link to observe and verify the published GitHub page. 
+![Step4 to deploy a project on Github](/docs/images/deployment4.png)
 
-### **Credits**
+    
+## **Credits**
 
-## **Content**
+### **Content**
 The content for this website was created by the owner and all of the names and stories written for Grape Escape-a WWOOFing experience are not real - any resemblance to real events and/or to real persons, living or dead, is purely coincidental.
 
-## **Images**
+### **Images**
 All of the images for this website were found on free stock photo website, such as: 
    -Pexels
       - [Pexels homepage](https://www.pexels.com/)
