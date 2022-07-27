@@ -118,7 +118,7 @@ header {
 .img-container {
     width: 350px;
     height: 350px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     object-fit: cover;
     /*borders*/
     border-style: solid;
@@ -152,10 +152,14 @@ header {
     margin: 20px;
 }
 
+#signature {
+    color: #f16705;
+}
+
 /*footer*/
 
 footer {
-   background-color: #ffe4c4d4;
+    background-color: #ffe4c4d4;
 }
 
 .centred {
@@ -198,7 +202,9 @@ footer {
     margin: 5px;
 }
 
-.contact-us p, .location p, .faqs p {
+.contact-us p,
+.location p,
+.faqs p {
     font-size: 1.2rem;
     color: #0009;
 }
@@ -244,7 +250,7 @@ input[type=submit]:hover {
 
     .img-container {
         max-width: 100%
-}
+    }
 }
 
 /*for medium screen sizes - from 950px wide and down*/
@@ -252,18 +258,19 @@ input[type=submit]:hover {
 @media screen and (max-width: 950px) {
 
     .img-container {
-       max-width: 100%;
+        max-width: 100%;
     }
 }
+
 /*for small screen sizes - from 450px wide and down*/
 
 @media screen and (max-width: 450px) {
 
     .img-container {
-       max-width: 100%;
+        max-width: 100%;
     }
 
     #menu {
-        margin-top: -50px;    
+        margin-top: -50px;
     }
 }
