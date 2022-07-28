@@ -16,7 +16,7 @@ body {
 }
 
 h2 {
-    color: #628131;
+    color: #526d29;
     margin-bottom: 20px;
     font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     font-size: 225%;
@@ -65,7 +65,7 @@ header {
 #menu {
     font-size: 150%;
     letter-spacing: 2px;
-    color: #628131;
+    color: #526d29;
     margin-top: 36px;
     line-height: 70px;
 }
@@ -81,11 +81,11 @@ header {
 }
 
 #menu a:hover {
-    border-bottom: 2px solid #f17505e0;
+    border-bottom: 2px solid #f16705;
 }
 
 .active {
-    border-bottom: 2px solid #f17505e0;
+    border-bottom: 2px solid #f16705;
 }
 
 /*hero image*/
@@ -96,7 +96,7 @@ header {
     margin-top: 20px;
     position: relative;
     object-fit: cover;
-    border-color: #f17505e0;
+    border-color: #f16705;
     border-style: solid;
 }
 
@@ -122,7 +122,7 @@ header {
     object-fit: cover;
     /*borders*/
     border-style: solid;
-    border-color: #f17505e0;
+    border-color: #f16705;
     border-width: 2px;
     border-radius: 5%;
 }
@@ -130,7 +130,7 @@ header {
 /*about us section*/
 
 #diff-style {
-    color: #f17505e0;
+    color: #f16705;
     font-size: 3rem;
     font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     letter-spacing: 2px;
@@ -146,7 +146,7 @@ header {
 /*gallery page*/
 
 #gallery-link {
-    color: #f17505e0;
+    color: #f16705;
     font-size: 3rem;
     font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
     margin: 20px;
@@ -171,11 +171,11 @@ footer {
 .social-networks i {
     font-size: 250%;
     margin: 30px;
-    color: #628131;
+    color: #526d29;
 }
 
 .social-networks i:hover {
-    color: #f17505e0;
+    color: #f16705;
 }
 
 /*get started form*/
@@ -213,7 +213,7 @@ footer {
 
 input[type=submit] {
     background-color: white;
-    border: 2px solid #628131;
+    border: 2px solid #526d29;
 }
 
 input[type=submit]:hover {
