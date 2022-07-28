@@ -185,6 +185,7 @@ footer {
     background-attachment: fixed;
     background-size: cover;
     margin-top: 185px;
+    margin-bottom: 30px;
 }
 
 .get-started-form,
