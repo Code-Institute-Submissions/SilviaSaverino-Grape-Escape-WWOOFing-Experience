@@ -190,7 +190,7 @@ I have used several technologies that have enabled this design to work:
 -	[Gitpod](https://www.gitpod.io/)
 	- Used as the development environment.
 -	[ImageOptim](https://imageoptim.com/online)
-    -Used to resize screenshots for READ-ME file
+    - Used to resize screenshots for READ-ME file
 -	[W3C Markup Validation Service](https://validator.w3.org/) 
 	- Used to validate all HTML code written and used in this webpage.
 -	[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
@@ -227,6 +227,8 @@ The Color Contrast Accessibility Validator was used to test for colour contrast 
 - The footer was initially detached from the bottom of the page; I've realised I was using the wrong margin values in the body and in the footer itself, so once I've inspected the two elements I was able to adjust them both by adding the right margin values.
 
 - The readability of the logo in the header did not have enough contrast at the beginning and it would make it harder for user to read on small devices. I've fixed this by improving the color contrast between the header and the logo itself.
+
+- The header in small and medium size screens was taking too much screen space; this had been fixed by adding 
 
 ### **Deployment**
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. For the site to deploy correctly on GitHub pages, the landing page must be named index.html.

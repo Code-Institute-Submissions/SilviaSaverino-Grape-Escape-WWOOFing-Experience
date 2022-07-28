@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    /*border: 0;*/
+    border: 0;
 }
 
 
@@ -31,7 +31,6 @@ a {
 
 header {
     background-color: #fff1e1;
-    /*background-color: #ffe8cc;*/
 }
 
 
@@ -185,7 +184,7 @@ footer {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    margin: 20px auto;
+    margin-top: 185px;
 }
 
 .get-started-form,
@@ -234,7 +233,7 @@ input[type=submit]:hover {
 
 .submitted-message {
     border-radius: 10px;
-    font-size: 250%;
+    font-size: 150%;
     background-color: rgba(255, 228, 196, 0.5);
 }
 
