@@ -25,7 +25,7 @@ Client goals for this website are:
 
 3.	To create a sense of community and long-lasting memories through the Gallery page
 
-First-time usergoals of this website are:
+First-time user goals of this website are:
 
 1. To be able to navigate the site without issues
 
@@ -33,18 +33,12 @@ First-time usergoals of this website are:
 
 3. To check credibility and previous user feedbacks on Grape Escape social media pages
 
-Returning Visitor Goals are:
+Returning User goals are:
 1.	To easily find useful information about WWOOFing and what this host can offer
 
 2.	To find a helpful guidelines on what to expect from this experience
 
 3.	To be able to directly enquiry and receive content from the hosts and his small team
-
-Frequent Visitor Goals are:
-1. To find up to date information on what is new
-
-2. To be able to easily contact the host with questions I might have
-
 
 
 # **UX** 
@@ -228,7 +222,11 @@ The Color Contrast Accessibility Validator was used to test for colour contrast 
 
 - The readability of the logo in the header did not have enough contrast at the beginning and it would make it harder for user to read on small devices. I've fixed this by improving the color contrast between the header and the logo itself.
 
-- The header in small and medium size screens was taking too much screen space; this had been fixed by adding 
+- The form section in the 'Get Started' page was not showing up properly and also in this case, it was a matter or adjusting the margins
+
+- The initial path of the background picture in the 'enquiry-received.html' file was originally wrong, as I was not using an absolute path; once I opted for a relative one everything was getting displayed properly.
+
+A few other bugs I've discovered along the way had been fixed by using the developer tools and doing some searches online. Once I realised what was wrong with the code or especially those moments where I was completely puzzled by the errors I've relied on external sources like some interesting articles found online and also Youtube [youtube-homepage](https://www.youtube.com/)for some video explanations and when needed I've also refreshed my memory with previous Code Institute video lessons.
 
 ### **Deployment**
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. For the site to deploy correctly on GitHub pages, the landing page must be named index.html.
@@ -249,7 +247,7 @@ My project was developed using the IDE, Gitpod. I deployed my website from the G
 4. I then followed the link to observe and verify the published GitHub page. 
 ![Step4 to deploy a project on Github](/docs/images/deployment4.png)
 
-    
+
 ## **Credits**
 
 ### **Content**
