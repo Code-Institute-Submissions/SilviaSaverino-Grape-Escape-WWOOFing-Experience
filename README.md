@@ -227,7 +227,9 @@ The Color Contrast Accessibility Validator was used to test for colour contrast 
 
 ### **Known bugs and fixes**
 
-pics and content here
+- The footer was initially detached from the bottom of the page; I've realised I was using the wrong margin values in the body and in the footer itself, so once I've inspected the two elements I was able to adjust them both by adding the right margin values.
+
+- The readability of the logo in the header did not have enough contrast at the beginning and it would make it harder for user to read on small devices. I've fixed this by improving the color contrast between the header and the logo itself.
 
 ### **Deployment**
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. For the site to deploy correctly on GitHub pages, the landing page must be named index.html.
