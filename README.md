@@ -94,12 +94,9 @@ This is a three-page website to allow for desired flow;
  Finally, there is a simple Get Started form that allows the user to send their enquiries to Grape Escape team, with a choice of some selected topics to choose from.
 
 ## **Skeleton**
-[Wireframes]()
 I had originally thought about creating a website with a homepage and 3 separate pages by adding a FAQs section, yet I later decided not to proceed this way to avoid cognitive overload by displaying too much information. 
 
-Please note the finalised website contains slight variations to the original wireframe.
-
-I purposely placed the Gallery anchor element as a last thing in the home page to encourage users to click on it and receive a positive response from the images shown in the gallery.
+I purposely placed the Gallery anchor element as a last thing in the home page to encourage users to click on it and receive a positive response from the images and feedbacks shown in the gallery.
 
 ## **Surface**
 I’ve chosen a colour palette based around orange & greens from the hero image. 
