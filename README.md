@@ -113,28 +113,28 @@ All of the headings use the font ‘Barlow semi condensed’ whilst the body tex
 
 This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed; each page is accessible through the nav bar. 
 
-### *Navbar*
+## *Navbar*
 The navbar is placed on top of a colorful header, when viewed on smaller screens I opted for the menu to stick at the top to allow better navigation through the website. 
 
 ![image of Grape Escape navigation bar and logo](/docs/images/nav-bar.jpg)
 
 The image I have chosen is representative of the site's theme and incorporates the colour palette, it immediately encourages the user to think of being on holiday and increase their curiosity about Villa Torsi
 
-### *What is WWOOFing section*
+## *What is WWOOFing section*
 I've decided to add a simple explanation of what WWOOFing is – to target first time users and prompt some curiosity and interest in them. 
 
 I kept the layout and style of this section very basic to avoid cognitive overload.
 
 ![image of Grape Escape Gallery page](/docs/images/what-is-wwoofing.jpg)
 
-### *About Us section*
+## *About Us section*
 In here the user will find a brief explanation of what to expect from such experience and from the host itself. 
 
 I’ve used some h2 headings, followed by a representative image of the descriptive content of the paragraphs that follows. I wanted to keep this section simple, clean and straight to the point as a FAQs page will later be added.
 
 ![image of Grape Escape About us section](/docs/images/about-us-section.jpg)
 
-### *Gallery page*
+## *Gallery page*
 This page features a simple structure of three images per row, for a total of twelve images- with some feedbacks and reviews from the guests in the picture. The idea for a future version of this website that the images will keep on been updated and will keep on changing. 
 
 This layout had been chosen to provide the user with a positive reaction and possibly imagine themselves among the people in the pictures.  
@@ -143,7 +143,7 @@ To help the users to easily navigate their way beyond this page, the header and 
 
 ![image of Grape Escape Gallery page](/docs/images/gallery-feedbacks.jpg)
 
-### *Get started page*
+## *Get started page*
 This is a signup form that will allow the user to send enquiries and get in touch with the Grape Escape team. 
 
 The form uses 5 elements, 2 text inputs and an email input, plus a drop-down menu to select the nature of the enquiry and a textbox to let the users express themselves. 
@@ -157,21 +157,21 @@ A background image coherent with the style of the whole website had been chosen 
 
 A last paragraph mentions a FAQs page – not yet created! – that will allow the user to gather more information whilst waiting for a reply to their enquiry.
 
-### *Enquiry-received*
+## *Enquiry-received*
 This page will conferm the user that the enquiry has indeed been sent and that a member of the team will reply to them as soon as possible.
 The layout and style of this page is coherent with the rest of the website, so is the background image i've used.
 
 ![image confirming that an enquiry has been sent and surely received by Grape Escape team](/docs/images/enquiry-sent.jpg)
 
 
-### *Footer*
+## *Footer*
 The footer is coherent with the layout and style of the header and nav bar; at this time it only includes links to social media pages ,all of them opening in a new tab to facilitate the user navigation.
 
 ![image of Grape Escape footer with social links icons](/docs/images/footer-section.jpg)
 
 
 
-## *Technologies Used*
+# *Technologies Used*
 I have used several technologies that have enabled this design to work:
 -   [W3Schools](https://www.w3schools.com/)
     - Used to check html and ccs codes and find solutions to some bugs
