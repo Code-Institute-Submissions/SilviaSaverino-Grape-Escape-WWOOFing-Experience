@@ -247,7 +247,10 @@ I am pleased my website has hitten more than 95% in all score.
 
 After fixing some errors on both testing sites- maynli some typos but also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
 
-![image of HTML positive validator results](/docs/images/w3c-validator.jpg)
+![image of HTML positive validator results-home page](/docs/images/validator-index.png)
+![image of HTML positive validator results-gallery page](/docs/images/validator-gallery.png)
+![image of HTML positive validator results-get started page](/docs/images/validator-get-started.png)
+![image of HTML positive validator results-enquiry page](/docs/images/validator-submitted.png)
 
 ![image of CSS positive validator results](/docs/images/css-validator.png)
 
