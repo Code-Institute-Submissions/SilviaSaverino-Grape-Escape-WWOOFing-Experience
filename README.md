@@ -1,5 +1,7 @@
 # **Grape Escape - A WWOOFing experience**
 
+[screenshot of Grape Escape from amiresponsive website](/docs/images/amiresponsive.jpg)
+
 [Please, follow this link to visit the website](https://silviasaverino.github.io/Grape-Escape-WWOOFing-Experience/index.html)
 
 Created to provide inspiration for people interested in WWOOFing and those specifically interested in visiting the Torsi villa in Tuscany. This website was made for educational purposes only.
@@ -271,7 +273,9 @@ The Color Contrast Accessibility Validator was used to test for colour contrast 
 
 - The initial path of the background picture in the 'enquiry-received.html' file was originally wrong, as I was not using an absolute path; once I opted for a relative one everything was getting displayed properly.
 
-A few other bugs I've discovered along the way had been fixed by using the developer tools and doing some searches online. Once I realised what was wrong with the code or especially those moments where I was completely puzzled by the errors I've relied on external sources like some interesting articles found online and also Youtube [youtube-homepage](https://www.youtube.com/)for some video explanations and when needed I've also refreshed my memory with previous Code Institute video lessons.
+- I had some trouble in making the header responsive with small screen devices, as it was taking too much on small screen. I've done my best in fixing this by removing unnecessary margins, adjust font sizes and by removing media queries I didn't need in the end. 
+
+A few other bugs I've discovered along the way had been fixed by using the developer tools and doing some searches online. Once I realised what was wrong with the code or especially those moments where I was completely puzzled by unexpected errors, I've relied on external sources like some interesting articles on the internet and also by  checking Youtube [youtube-homepage](https://www.youtube.com/)for some video explanations and when needed and of course refreshed my memory with previous Code Institute video lessons.
 
 ### **Deployment**
 This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. For the site to deploy correctly on GitHub pages, the landing page must be named index.html.
