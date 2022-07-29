@@ -12,7 +12,6 @@ body {
     font-family: 'Yanone Kaffeesatz', Helvetica, sans-serif;
     color: #515d5f;
     background-color: rgba(241, 241, 220, 0.5);
-    margin-top: 170px;    
 }
 
 h2 {
@@ -33,16 +32,16 @@ header {
     background-color: #fff1e1;
 }
 
-
-#logo {
-    margin: 20px;
-}
-
-#logo h1 {
+#home-logo {
     letter-spacing: 2.5px;
-    font-size: 400%;
+    font-size: 162%;
     color: #f16705;
 }
+
+#logo {
+    padding: 20px 20px 5px 20px;
+}
+
 
 #logo p {
     color: #526d29;
@@ -53,9 +52,8 @@ header {
 }
 
 #sticky {
-    position: fixed;
+    position: sticky;
     top: 0;
-    width: 100%;
     z-index: 1;
 }
 
@@ -65,14 +63,19 @@ header {
     font-size: 150%;
     letter-spacing: 2px;
     color: #526d29;
-    margin-top: 36px;
-    line-height: 70px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 20px;
+}
+
+.center-menu {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
 }
 
 #menu a {
@@ -184,7 +187,6 @@ footer {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    margin-top: 185px;
     margin-bottom: 30px;
 }
 
@@ -256,33 +258,3 @@ input[type=submit]:hover {
 }
 
 
-/*media query*/
-
-@media screen and (max-width: 1200px) {
-
-    .img-container {
-        max-width: 100%
-    }
-}
-
-/*for medium screen sizes - from 950px wide and down*/
-
-@media screen and (max-width: 950px) {
-
-    .img-container {
-        max-width: 100%;
-    }
-}
-
-/*for small screen sizes - from 450px wide and down*/
-
-@media screen and (max-width: 450px) {
-
-    .img-container {
-        max-width: 100%;
-    }
-
-    #menu {
-        margin-top: -50px;
-    }
-}
