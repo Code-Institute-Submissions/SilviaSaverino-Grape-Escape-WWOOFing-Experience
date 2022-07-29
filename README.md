@@ -53,9 +53,13 @@ I was able to achieve this by the feedbacks left from previous wwoofers in the G
 
 I was able to achieve this through the content of 'About Us' section
 
-5. As a user I would like to be able to directly enquiry and receive content from the hosts and his small team
+5. As a user I would like to be able to directly enquiry and receive information from the hosts and his small team
 
 I was able to do this by filling in the form in the 'Get Started' page
+
+6. As a user I would like to be reassured that indeed my enquiry had been sent.
+
+I was able to achieve this by the confirmation message received once submitting my enquiry.
 
 
 # **UX** 
