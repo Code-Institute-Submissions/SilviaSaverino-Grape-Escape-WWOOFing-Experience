@@ -222,14 +222,16 @@ input[type=submit]:hover {
 
 /*submit-received*/
 
-.form-submitted {
-    min-height: 500px;
-    padding-top: 120px;
-    /*img*/
+#enquiry-page {
     background-image: url(../images/background-girl.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+}
+
+.form-submitted {
+    min-height: 500px;
+    padding-top: 50px; 
 }
 
 .submitted-message {
@@ -241,8 +243,18 @@ input[type=submit]:hover {
 
 .submitted-message p {
     color: #0009;
-
 }
+
+.return-to-home-page i {
+    font-size: 150%;
+    margin: 30px;
+    color: #f16705; 
+}
+
+.return-to-home-page i:hover {
+    color: #526d29;
+}
+
 
 /*media query*/
 
