@@ -1,8 +1,8 @@
 # **Grape Escape - A WWOOFing experience**
 
-[screenshot of Grape Escape from amiresponsive website](/docs/images/amiresponsive.jpg)
+![screenshot of Grape Escape from amiresponsive website](/docs/images/amiresponsive.jpg)
 
-[Please, follow this link to visit the website](https://silviasaverino.github.io/Grape-Escape-WWOOFing-Experience/index.html)
+![Please, follow this link to visit the website](https://silviasaverino.github.io/Grape-Escape-WWOOFing-Experience/index.html)
 
 Created to provide inspiration for people interested in WWOOFing and those specifically interested in visiting the Torsi villa in Tuscany. This website was made for educational purposes only.
 
