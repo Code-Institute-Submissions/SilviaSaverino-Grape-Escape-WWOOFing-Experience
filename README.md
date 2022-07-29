@@ -21,16 +21,23 @@ To be added later in future release:
 ### *From the client point of view:* 
 
 1. I would like to inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
+[screenshot of hero image warm colors](/docs/images/testing-warm-color.jpg)
+
+[screenshot of emotional positive images](/docs/images/testing-positive-emotions.jpg)
 
 I've chosen to use images with warm colors and overall images displaying positive emotions to reach this goal.
 
 
 2. I would like to provide first time users and potential WWOOFErs with a sense of safety and security.
 
+[screenshot of location paragraph content](/docs/images/testing-safety.jpg)
+
 To provide this, I 've chosen to not inform the public with the location of the Villa and incourage them to send an enquiry first.
 
 
 3. I would like to create a sense of community and encourage previous WWOOFers to come back.
+
+[screenshot of direct message from the host](/docs/images/testing-direct-message.png)
 
 A direct message from the client was added in the 'Gallery Page' to achieve this.
 
@@ -39,25 +46,39 @@ A direct message from the client was added in the 'Gallery Page' to achieve this
 
 1. As a user I would like to navigate the site without issues
 
-I was able to achieve this by using the navigation bar and internal links found in the website.
+[screenshot of the navigation bar](/docs/images/testing-nav-bar.jpg)
+
+[screenshot of internal links pop up message](/docs/images/testing-internal-links.png)
+
+I was able to achieve this by using the navigation bar and internal links with titles found in the website.
 
 2. As a user I would like to have a better understanding of what WWOOFing is
+
+[screenshot of 'what is WWOOFing?'section content](/docs/images/what-is-wwoofing.jpg)
 
 I was able to achieve this by reading the content of the first paragraph in the Home page - in future release, this will also be achieved through the content of the FAQs page.
 
 3. As a user I would like to check credibility and previous user feedbacks on Grape Escape social media pages
 
+[screenshot of previous wwoofers feedbacks and footer](/docs/images/testing-credibility.jpg)
+
 I was able to achieve this by the feedbacks left from previous wwoofers in the Gallery page and by clicking on the social media icons in the footer.
 
 4. As a user I would like to find a helpful guidelines on what to expect from this experience
+
+[screenshot of 'About Us' section content](/docs/images/testing-about-us-content.jpg)
 
 I was able to achieve this through the content of 'About Us' section
 
 5. As a user I would like to be able to directly enquiry and receive information from the hosts and his small team
 
+[screenshot of Get Started form](/docs/images/testing-direct-enquiry.jpg)
+
 I was able to do this by filling in the form in the 'Get Started' page
 
 6. As a user I would like to be reassured that indeed my enquiry had been sent.
+
+[screenshot of subitted enquiry](/docs/images/testing-enquiry-sent-message.jpg)
 
 I was able to achieve this by the confirmation message received once submitting my enquiry.
 
