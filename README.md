@@ -14,31 +14,48 @@ To be added later in future release:
 
 4.	FAQ section 
 
+# **Testing**
+
+## **User Stories**
+
+### *From the client point of view:* 
+
+1. I would like to inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
+
+I've chosen to use images with warm colors and overall images displaying positive emotions to reach this goal.
 
 
-# **User Stories**
+2. I would like to provide first time users and potential WWOOFErs with a sense of safety and security.
 
-Client goals for this website are:
-1.	To inspire users that want to escape from the city and visit one of the WWOOFing hosts- in this case the Torsi Villa
+To provide this, I 've chosen to not inform the public with the location of the Villa and incourage them to send an enquiry first.
 
-2.	To provide some basic information on what to expect from this way of travelling
 
-3.	To create a sense of community and long-lasting memories through the Gallery page
+3. I would like to create a sense of community and encourage previous WWOOFers to come back.
 
-First-time user goals of this website are:
+A direct message from the client was added in the 'Gallery Page' to achieve this.
 
-1. To be able to navigate the site without issues
 
-2. To have a better understanding of what WWOOFing is
+### *From first-time and returning user point of view:*
 
-3. To check credibility and previous user feedbacks on Grape Escape social media pages
+1. As a user I would like to navigate the site without issues
 
-Returning User goals are:
-1.	To easily find useful information about WWOOFing and what this host can offer
+I was able to achieve this by using the navigation bar and internal links found in the website.
 
-2.	To find a helpful guidelines on what to expect from this experience
+2. As a user I would like to have a better understanding of what WWOOFing is
 
-3.	To be able to directly enquiry and receive content from the hosts and his small team
+I was able to achieve this by reading the content of the first paragraph in the Home page - in future release, this will also be achieved through the content of the FAQs page.
+
+3. As a user I would like to check credibility and previous user feedbacks on Grape Escape social media pages
+
+I was able to achieve this by the feedbacks left from previous wwoofers in the Gallery page and by clicking on the social media icons in the footer.
+
+4. As a user I would like to find a helpful guidelines on what to expect from this experience
+
+I was able to achieve this through the content of 'About Us' section
+
+5. As a user I would like to be able to directly enquiry and receive content from the hosts and his small team
+
+I was able to do this by filling in the form in the 'Get Started' page
 
 
 # **UX** 
@@ -205,7 +222,7 @@ I am pleased my website has hitten more than 95% in all score.
 
 After fixing some errors on both testing sites- maynli some typos but also some unnecessary sections in index.html or style elements in style.css , the site eventually passed the W3C Validation.
 
-![![image of HTML positive validator results](/docs/images/w3c-validator.jpg)
+![image of HTML positive validator results](/docs/images/w3c-validator.jpg)
 
 ![image of CSS positive validator results](/docs/images/css-validator.png)
 
